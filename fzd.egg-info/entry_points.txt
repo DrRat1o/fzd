@@ -1,0 +1,2 @@
+[console_scripts]
+fzd = fzd.cli:main
